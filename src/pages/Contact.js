@@ -1,9 +1,9 @@
-import React from 'react';
-import styled from 'styled-components';
-import {FaFacebookSquare, FaInstagram, FaRegBuilding} from 'react-icons/fa';
-import {HiOutlineMailOpen} from 'react-icons/hi';
-import {BsPhone} from 'react-icons/bs';
-import {BiTimeFive} from 'react-icons/bi';
+import React from "react";
+import styled from "styled-components";
+import { FaFacebookSquare, FaInstagram, FaRegBuilding } from "react-icons/fa";
+import { HiOutlineMailOpen } from "react-icons/hi";
+import { BsPhone } from "react-icons/bs";
+import { BiTimeFive } from "react-icons/bi";
 
 const Contact = () => {
   return (
@@ -17,11 +17,11 @@ const Contact = () => {
           <div className="contact-info-box">
             <p className="contact-info">
               <HiOutlineMailOpen className="contact-icon" />
-              <span className="contact-span">godqhring@naver.com</span>
+              <span className="contact-span">liberzen01@hotmail.com</span>
             </p>
             <p className="contact-info">
               <BsPhone className="contact-icon" />
-              <span className="contact-span">02-2254-2363</span>
+              <span className="contact-span">02-2254-2362</span>
             </p>
             <p className="contact-info">
               <FaRegBuilding className="contact-icon" />
